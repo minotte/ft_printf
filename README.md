@@ -43,7 +43,7 @@ int ft_printf(const char *format, ...);
 
 ### Run the Program
 ```bash
-./test_printf
+./libftprintf.a
 ```
 
 ## Supported Conversions
